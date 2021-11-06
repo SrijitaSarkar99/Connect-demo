@@ -5,7 +5,11 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Check out these helpful techniques</h1>
+            <h1>
+                Check out these Blogs
+                <div style={{padding: '5px'}}></div>
+                <i class="fab fa-blogger"></i>
+            </h1>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
@@ -27,6 +31,8 @@ function Cards() {
                             label='Recharge'
                             path='/blogs'
                         />
+                    </ul>
+                    <ul className="cards__items">
                         <CardItem 
                             src='images/running.jpg'
                             text='Exercising regularly'

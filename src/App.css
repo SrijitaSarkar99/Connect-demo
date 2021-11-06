@@ -6,8 +6,8 @@
 }
 
 .home,
-.services,
-.products,
+.blogs,
+.groups,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -16,16 +16,15 @@
   font-size: 3rem;
 }
 
-.services {
+.blogs {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 100px;
 }
 
-.products {
-  /* background-image: url('/images/img-1.jpg'); */
+.groups {
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -34,7 +33,6 @@
 }
 
 .sign-up {
-  /* background-image: url('/images/img-8.jpg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
