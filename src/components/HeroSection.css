@@ -32,6 +32,10 @@ video {
     'Lucida Sans', Arial, sans-serif;
 }
 
+.hero-heading {
+  font-family: 'Crimson Pro', serif;
+}
+
 .hero-btns {
   margin-top: 32px;
 }

@@ -6,9 +6,12 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
+
       <video src='/videos/video1.mp4' autoPlay loop muted />
-      <h1>"To begin, begin."</h1>
+
+      <h1 className="hero-heading">"To begin, begin."</h1>
       <p>-William Wordsworth</p>
+
       <div className='hero-btns'>
         <Button
           className='btns'
@@ -21,7 +24,6 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
-          onClick={console.log('hey')}
         >
           Join Study Group <i class="far fa-grin-alt"></i>
         </Button>
