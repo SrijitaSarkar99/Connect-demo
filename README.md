@@ -25,6 +25,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Screencast:
- **warning! Large filesize* *
-
-![](./public/images/screencast.gif)
+![](./public/images/ss1.png) 
+![](./public/images/ss4.png)
+![](./public/images/ss2.png) 
+![](./public/images/ss3.png)
