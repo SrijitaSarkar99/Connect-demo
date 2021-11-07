@@ -29,6 +29,12 @@
     align-items: center;
     font-family: 'Limelight', cursive;
   }
+
+  .navbar-logo-img{
+    display: block;
+    max-width: 3rem;
+    width: auto;
+  }
   
   .fa-typo3 {
     margin-left: 0.5rem;

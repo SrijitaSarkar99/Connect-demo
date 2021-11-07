@@ -1,11 +1,11 @@
 import React from 'react';
 import '../../App.css';
 
-export default function StudyGroups() {
+export default function Connect() {
     return (
-        <div className='blogs' style={{ 
+        <div className='connect' style={{ 
             backgroundImage: `url('images/groupstudy.jpg')`}} >
-            <h3> STUDY GROUPS</h3>
+            <h3>CONNECT</h3>
         </div>
         );
 }

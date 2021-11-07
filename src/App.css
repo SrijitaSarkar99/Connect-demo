@@ -7,7 +7,7 @@
 
 .home,
 .blogs,
-.groups,
+.connect,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -24,7 +24,7 @@
   font-size: 100px;
 }
 
-.groups {
+.connect {
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;

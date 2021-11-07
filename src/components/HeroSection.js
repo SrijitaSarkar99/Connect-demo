@@ -25,7 +25,7 @@ function HeroSection() {
           buttonStyle='btn--primary'
           buttonSize='btn--large'
         >
-          Join Study Group <i class="far fa-grin-alt"></i>
+          Meet your peers <i class="far fa-grin-alt"></i>
         </Button>
       </div>
     </div>
