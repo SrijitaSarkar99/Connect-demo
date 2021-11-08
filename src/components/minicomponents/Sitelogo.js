@@ -8,7 +8,7 @@ export const Sitelogo = ({
     return(
         <Link to='/sign-up' className='navbar-logo' onClick={onClick}>
             <img src={logo} className="navbar-logo-img" alt='Logo' />
-            NITK Connect
+            NITK C
         </Link>
     )
 };
