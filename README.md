@@ -25,7 +25,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Screenshots:
-![](./public/images/ssc1.png) 
-![](./public/images/ssc2.png)
-![](./public/images/ssc3.png) 
-![](./public/images/ssc4.png)
+![](./public/images/S1.png) 
+![](./public/images/S2.png)
+![](./public/images/S3.png) 
+![](./public/images/S4.png)
