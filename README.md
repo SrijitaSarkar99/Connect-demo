@@ -1,4 +1,4 @@
-# NITK-C
+# Connect-demo
 
 This a responsive dummy website containing only landing page built using ReactJS.
 
